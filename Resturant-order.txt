@@ -3,4 +3,13 @@ Starter:
 @ Noodles
 @ Pani Puri
 
+Main Course:
+@ Paneer Kadhai
+@ Paneer Lahori
+@ Butter Naan
+@ Fried Daal
+@ Jeera Rice
+
+
+
 
